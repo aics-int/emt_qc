@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> We are no longer actively maintaining this repository. All active work by the Allen Institute for Cell Science is located under the **[AllenCell](https://github.com/AllenCell)** organization.
+
 # emt_qc
 
 [![Build Status](https://github.com/BrianWhitneyAI/emt_qc/workflows/Build%20Main/badge.svg)](https://github.com/BrianWhitneyAI/emt_qc/actions)
@@ -101,4 +104,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information related to developing the
 
 
 **Allen Institute Software License**
+
 
